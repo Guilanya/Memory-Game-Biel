@@ -1,0 +1,18 @@
+
+M:
+-Que vull guardar?
+	
+
+-Que vull retornar?
+	
+
+C:
+Que he de fer?
+	
+
+I:
+Que vull ensenyar?
+	
+
+Que vull que em donin?
+	
